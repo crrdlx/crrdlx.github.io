@@ -2,7 +2,7 @@
 
 ### I'm using the grin-converter app as a hands-on tool to learn about GitHub.
 
-That web app can be found online here: <a href="http://www.br549.mywebcommunity.org/grin">Grin Converter Web App</a>.
+That web app can be found online here: <a href="http://br549.mywebcommunity.org/grin/">Grin Converter Web App</a>.
 
 ----
 

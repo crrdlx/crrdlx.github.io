@@ -1,5 +1,5 @@
 ## Welcome to the GitHub Pages page for crrdlx
-![crrdlx](https://github.com/crrdlx/crrdlx.github.io/blob/master/crrdlx.jpg)
+![crrdlx](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/crrdlx.jpg)
 ### I'm using the grin-converter app as a hands-on tool to learn about GitHub.
 
 That web app can be found online here: <a href="http://br549.mywebcommunity.org/grin/">Grin Converter Web App</a>.

@@ -1,6 +1,6 @@
 ## Welcome to the GitHub Pages page for crrdlx
 
-I'm just monkeying around right now, trying to get a handle on GitHub.
+### I'm using the grin-converter app as a hands-on tool to learn about GitHub.
 
 You can use the [editor on GitHub](https://github.com/crrdlx/crrdlx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

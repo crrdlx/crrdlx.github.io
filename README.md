@@ -6,9 +6,9 @@ That web app can be found online here: <a href="http://br549.mywebcommunity.org/
 
 ----
 
-### Markdown
-
 ```markdown
+MARKDOWN
+
 Syntax highlighted code block
 
 # Header 1

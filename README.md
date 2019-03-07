@@ -27,4 +27,4 @@ Syntax highlighted code block
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-Change theme at [https://github.com/crrdlx/crrdlx.github.io/settings]
+Change theme at [crrdlx.crrdlx.github.io/settings](https://github.com/crrdlx/crrdlx.github.io/settings)

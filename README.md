@@ -4,6 +4,8 @@
 
 That web app can be found online here: <a href="http://br549.mywebcommunity.org/grin/">Grin Converter Web App</a>.
 
+It should soon be available in the Google Play store.
+
 ----
 
 ```markdown

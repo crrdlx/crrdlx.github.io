@@ -1,6 +1,6 @@
 ## Welcome to the GitHub Pages page for crrdlx
 ![crrdlx](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/crrdlx.jpg)
-### I'm using the grin-converter app as a hands-on tool to learn about GitHub.
+### I'm currently using the grin-converter app as a hands-on tool to learn about GitHub.
 
 Grin Converter repository: https://github.com/crrdlx/grin-converter
 

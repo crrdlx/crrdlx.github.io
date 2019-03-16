@@ -1,5 +1,7 @@
 GitHub markdown
 
+This is the simple markdown for GitHub. A file ending with .md can use this.
+
 ```markdown
 MARKDOWN
 

@@ -7,4 +7,6 @@ Grin Converter repository: [https://github.com/crrdlx/grin-converter](https://gi
 * The web app can be found online at [http://br549.mywebcommunity.org/grin/](http://br549.mywebcommunity.org/grin/)
 * The Android app is available in the Google Play store at <a href="https://play.google.com/store/apps/details?id=com.grin.converter">https://play.google.com/store/apps/details?id=com.grin.converter</a>
 
+That's all for now.
+
 ![shi image](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/shi.png)

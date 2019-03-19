@@ -13,7 +13,7 @@ Grin Converter repository: [https://github.com/crrdlx/grin-converter](https://gi
 
 The "DMW" is a template for a simple, clean, one-page website. It fits and looks great on any browser.
 
-Check it out here: 
+Check it out here: [https://github.com/crrdlx/doggone-minimal-website](https://github.com/crrdlx/doggone-minimal-website)
 
 That's all for now.
 

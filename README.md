@@ -1,7 +1,7 @@
 ## Welcome to the GitHub Pages page for crrdlx
 ![crrdlx](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/crrdlx.jpg)
 
-**I'm currently learning about GitHub.**
+### I'm currently learning about GitHub.
 
 I'm using the repos below to learn.
 

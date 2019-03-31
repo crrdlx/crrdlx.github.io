@@ -1,9 +1,7 @@
 ## Welcome to the GitHub Pages page for crrdlx
 ![crrdlx](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/crrdlx.jpg)
 
-### I'm currently learning about GitHub.
-
-I'm using the repos below to learn.
+### I'm using the following repos to learn about GitHub.
 
 #### PureCSS
 This is a template from Yahoo! for a responsive website. It looks good on a desktop/laptop, tablet, or phone. I'm trying to mash it up with the Doggone Minimal Website sort or embedded.

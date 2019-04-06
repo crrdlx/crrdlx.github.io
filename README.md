@@ -14,7 +14,7 @@ The DMW repository is here: [https://github.com/crrdlx/doggone-minimal-website](
 #### Grin Converter
 
 Grin Converter repository: [https://github.com/crrdlx/grin-converter](https://github.com/crrdlx/grin-converter)
-![Grin Logo](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/grin.jpg) ![Grin Converter Logo](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/grin-converter.png)
+![Grin Converter Logo](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/grin-converter.png)
 
 The app simply converts the current price of Grin into fiat various fiat currencies.
 * The web app can be found online at [http://br549.mywebcommunity.org/grin/](http://br549.mywebcommunity.org/grin/)

@@ -1,5 +1,4 @@
 ## Welcome to the GitHub Pages page for crrdlx
-![crrdlx](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/crrdlx.jpg)
 
 ### Being rather new to GitHub, I'm using the following repos to learn about it.
 

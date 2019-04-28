@@ -1,6 +1,6 @@
 ## Welcome to the GitHub Pages page for crrdlx
 
-### Being rather new to GitHub, I'm using the following repos to learn about it.
+### Being new to GitHub, I'm using the following repos to learn about it. Open source is an enigma, wonderful, but an enigma.
 
 #### PureCSS
 This is a template from Yahoo! for a responsive website. It looks good on a desktop/laptop, tablet, or phone. I'm trying to mash it up with the Doggone Minimal Website.

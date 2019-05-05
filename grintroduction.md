@@ -68,4 +68,4 @@ Grin is different. It is fair, it is private, and it aims to be more fungible th
 * Grin monetary graph: https://docs.google.com/spreadsheets/d/1hGyC8tSivtZqjlu8aQgjG0pKfKc0L0RO0leMfjPADp0/edit#gid=0
 * Bitcoin monetary graph: https://bitcointalk.org/index.php?topic=130619.0
 * Grin inflation rate graph: https://plot.ly/~Bobby_Digital/1/#/
-* Infographic on money: https://money.visualcapitalist.com/infographic-the-properties-of-money/)
+* Infographic on money: https://money.visualcapitalist.com/infographic-the-properties-of-money

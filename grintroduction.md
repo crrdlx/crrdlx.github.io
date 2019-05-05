@@ -6,6 +6,8 @@
 
 Grin (GRIN) is new. The first Grin block was mined in January of this year, 2019. And, it's a bit different. Here's how:
 
+![grinning.jpg](https://cdn.steemitimages.com/DQmT9PkkbJCgvHEowcyi3vbB39KoVWrP7qwxrQvy9Vamo7g/grinning.jpg)
+
 **Fair and honest.**
 
 Grin started out the way Bitcoin did...anybody could just start mining. There was no pre-mine. This means the folks who started Grin didn't get anything extra. Much of the time, if someone starts a coin, he'll pull one or two semi-scams. First, he might *pre-mine* a million-or-so coins for himself. The logic is, since he did the work to make the coin, shouldn't he reap a good chunk of the rewards? Or, semi-scam #2, he *sets up an ICO* and sells coins on an open market. He reaps rewards here as well in the form of cryptocurrency. Some might say, these are actually fair. And, I might even agree, assuming that everything was shown up front and done in the open. If done in the open, and someone wants to engage in the project, that's fine by me. 
@@ -24,6 +26,8 @@ Secondly, by having no addresses, this means sending and receiving Grin money is
 
 Start with Bitcoin and think of Bitcoin wallets as glass piggy banks laying out in the open for all to see. Anyone can put money in. Only the piggy bank owner, with the private key, can unlock and take out the money. If they wished to do so, anybody walking by is free to drop coins into any Bitcoin piggy bank. The owner of that Bitcoin piggy bank does not need to be around or even know that money was dropped in. Grin is different. The piggy bank analogy does not exist. With no addresses, there are no piggy banks. Or at least, the piggy banks are out there somewhere, but no one knows where they are. They're magical, invisible, grinning piggy banks, somewhere out there in piggy bank land. 
 
+![grinningpiggybank.jpg](https://cdn.steemitimages.com/DQmSHhW9PxMhQTi7mJBEgPwi7qw79hLcGnr5HP8eNymwVDQ/grinningpiggybank.jpg)
+
 In order to make a transaction with Grin, both folks have to communicate. If I were to pay you in Grin, I must make contact with you and ask your permission. You must respond back to me. I ask, "Hey, want some Grin money, I'll send you 2 GRIN?" You say, "Yes, send it!" The software takes care of making things happen. It makes sure things are all legit and that there's no monkey-business going on. And, the software makes those 2 GRIN magically vanish from my invisible grinning piggy bank and show up in yours. Nobody else ever sees any of this.
 
 The thought is that this might more closely mirror the real world. If Sally wanted to give some Bitcoin to a guy she's never met on the other side of the world right now, she could (which is nice). If Sally wanted to give some dollar bills to that guy, she could not. First, she would have to contact him, in some way, and ask, "Hey, I want to give you some money, where can I send it? Bank account? PayPal? Letter in the mail?" He'd need respond back, etc. Grin works like this.
@@ -38,9 +42,15 @@ There are a couple of terms here pertinent and perhaps confusing. One is the *em
 
 Being crypto, Grin has opted against a centralized entity like a Fed managing monetary policy, and toward hard-coding the emission schedule. *There's no guarantee that 1/second is the magical Goldilocks emission rate*. It appears the logic here simply is that such a rate is simple to understand, is reliably predictable, and somehow seems natural. Maybe it even jives with the natural laws of physics and our circadian rhythm. I dunno.
 
-The second term here is the *inflation rate*...how the value of the coin changes over time. A graph is helpful here. Whereas the graph for the emission rate is a straight line at 1/second, the inflation rate graph looks like the Death-Dive Roller Coaster to Hell. Grin inflation started at 100%, then nose dives, then begins to curve a bit around 5 years in, then flattens to almost level. The near-flattening will take place in about 10 years, the flattening in about 20 or so (depends on how you look at it). By comparison, the Bitcoin inflation rate is somewhat similar, but the emission schedule is not linear. Rather, the Bitcoin emission schedule is "humped over" as it slows, eventually to zero emission when no more Bitcoin will be created.
+The second term here is the *inflation rate*...how the value of the coin changes over time. A graph is helpful here. Whereas the blue graph for the emission rate is a straight line at 1/second, the red inflation rate graph looks like the Death-Dive Roller Coaster to Hell. Grin inflation started at 100%, then nose dives, then begins to curve a bit around 5 years in, then flattens to almost level. The near-flattening will take place in about 10 years, the flattening in about 20 or so (depends on how you look at it). By comparison, the red Bitcoin inflation rate is somewhat similar, but the blue emission schedule is not linear. Rather, the Bitcoin emission schedule is "humped over" as it slows, eventually to zero emission when no more Bitcoin will be created.
+
+![grin-emission-inflation.jpg](https://cdn.steemitimages.com/DQmcSZ9xiA8uj4PwyZa32PNzL18J2BUcN55hCFeAxp1cr66/grin-emission-inflation.jpg)
+
+![bitcoin-emission.png](https://cdn.steemitimages.com/DQmQmDz5wJ87KPKHRyHH4eVmnCpYeUG9sYQtT9iRykZDS6D/bitcoin-emission.png)
 
 What's up with this shape of Grin's inflation nose dive? Simple Econ 101 math formula: inflation rate = ((new-old)/old)x100. Imagine...when the first Grin block was mined, BOOM! 60 coins existed. Pretend one Grin could buy you one cookie at the time. With the second block a minute later, 60 more Grin were added. The money supply just doubled from 60 to 120. The new-old is 120 minus 60, which is 60. That 60, divided by the old price of 60, is of course, 1. Times 100, is 100% inflation. Your 1 Grin now only buys half a cookie.
+
+![grin_inflation_rate_anim.gif](https://cdn.steemitimages.com/DQmTyxoX1QV2U4gqQifH8xSTKtiXg8P17bHMfVJCKn4byeV/grin_inflation_rate_anim.gif)
 
 The result here is that early on, there's actually an incentive to spend Grin fast. I should have bought those 60 cookies in the first minute!
 

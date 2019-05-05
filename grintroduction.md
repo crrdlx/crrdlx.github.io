@@ -1,6 +1,6 @@
 # Grintroduction
 
-### The low-down on Grin coin, for real people
+**The low-down on Grin coin, for real people who aren't geniuses.**
 
 **TL;DR**: *Grin is different. It is fair, it is private, and it aims to be more fungible than non-privacy cryptocurrencies. The emission schedule and the inflation rate are predictable, but whether they are ideal is yet to be determined.*
 
@@ -18,11 +18,11 @@ A second tenet of Grin that makes it fair and honest is that the leaders seem de
 
 **Privacy.**
 
-Lots of folks think Bitcoin is "anonymous" or that criminals can get away with using Bitcoin because it can't be traced. Not so. There are privacy coins already, mainly Monero and ZCash. Grin's different. The most obvious difference is that *there are no addresses with Grin*. Kind of like how websites have addresses, such as google.com, cryptocurrencies have something similar. Bitcoin, Monero, Zcash and almost all cryptocurrencies have addresses that are long, unreadable bunches of letters and numbers. But, they are addresses. *Grin does not have addresses*. This absence of addresses means a couple of things:
+Lots of folks think Bitcoin is "anonymous" or that criminals can get away with using Bitcoin because it can't be traced. Not so. There are privacy coins already, mainly Monero and Zcash. Grin's different. The most obvious difference is that *there are no addresses with Grin*. Kind of like how websites have addresses, such as google.com, cryptocurrencies have something similar. Bitcoin, Monero, Zcash and almost all cryptocurrencies have addresses that are long, unreadable bunches of letters and numbers. But, they are addresses. *Grin does not have addresses*. This absence of addresses means a couple of things:
 
 First, by having no addresses, this means privacy. With Grin, *no one can see how much you have in your crypto wallet*. They can do that with Bitcoin. With Grin, *no one can see where that money came from, or where it went to*. They can do that with Bitcoin. With Grin, *no one can see how much money you sent or spent*. They can do that with Bitcoin. To be fair, Monero and Zcash, though having addresses, are private. Though you can see an address, you can't see how much is in that address or details about a transaction.
 
-Secondly, by having no addresses, this means sending and receiving Grin money is different. The process is rather technical, and wouldn't be understood by most folks, myself included. But, I'll attempt *a conceptual explanation here*. 
+Secondly, by having no addresses, this means sending and receiving Grin money is different. The process is rather technical, and wouldn't be understood by most folks, myself included. But, I'll attempt *a conceptual explanation* here. 
 
 Start with Bitcoin and think of Bitcoin wallets as glass piggy banks laying out in the open for all to see. Anyone can put money in. Only the piggy bank owner, with the private key, can unlock and take out the money. If they wished to do so, anybody walking by is free to drop coins into any Bitcoin piggy bank. The owner of that Bitcoin piggy bank does not need to be around or even know that money was dropped in. Grin is different. The piggy bank analogy does not exist. With no addresses, there are no piggy banks. Or at least, the piggy banks are out there somewhere, but no one knows where they are. They're magical, invisible, grinning piggy banks, somewhere out there in piggy bank land. 
 
@@ -30,7 +30,7 @@ Start with Bitcoin and think of Bitcoin wallets as glass piggy banks laying out 
 
 In order to make a transaction with Grin, both folks have to communicate. If I were to pay you in Grin, I must make contact with you and ask your permission. You must respond back to me. I ask, "Hey, want some Grin money, I'll send you 2 GRIN?" You say, "Yes, send it!" The software takes care of making things happen. It makes sure things are all legit and that there's no monkey-business going on. And, the software makes those 2 GRIN magically vanish from my invisible grinning piggy bank and show up in yours. Nobody else ever sees any of this.
 
-The thought is that this might more closely mirror the real world. If Sally wanted to give some Bitcoin to a guy she's never met on the other side of the world right now, she could (which is nice). If Sally wanted to give some dollar bills to that guy, she could not. First, she would have to contact him, in some way, and ask, "Hey, I want to give you some money, where can I send it? Bank account? PayPal? Letter in the mail?" He'd need respond back, etc. Grin works like this.
+The thought is that this might more closely mirror the real world. If Sally wanted to give some Bitcoin to a guy she's never met on the other side of the world right now, she could (which is nice). If Sally wanted to give some dollar bills to that guy, she could not. First, she would have to contact him, in some way, and ask, "Hey, I want to give you some money, where can I send it? Bank account? PayPal? Letter in the mail?" He'd need to respond back, etc. Grin works like this.
 
 This process of sending/receiving money is certainly different from other cryptocurrencies, and it might take a bit to get used to. It seems a bit clunky, a bit unintuitive to me right now. My guess is that the Grin community will likely work on making this easier going forward.
 

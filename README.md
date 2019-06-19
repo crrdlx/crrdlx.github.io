@@ -1,6 +1,6 @@
 ## Welcome to the GitHub Pages page for crrdlx
 
-### Being new to GitHub, I'm using the following repos to learn about it. Open source is an enigma, wonderful, but an enigma.
+### I'm new to GitHub and using the following repos to learn about it.
 
 #### Grin Converter
 
@@ -23,3 +23,17 @@ PureCSS repository: [https://github.com/crrdlx/purecss](https://github.com/crrdl
 
 The "DMW" is a template for a simple, clean, one-page website. It fits and looks great on any browser.
 The DMW repository is here: [https://github.com/crrdlx/doggone-minimal-website](https://github.com/crrdlx/doggone-minimal-website)
+
+#### Satoshi Bitcoin Converter
+
+I also made the Satoshi Bitcoin Converter app for Android (not open source, maybe one day). It is available at https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US The "sales pitch" (it's free) follows:
+
+Satoshi Bitcoin Converter automatically switches units between bitcoin, mBTC, uBTC, and satoshi. A current value is displayed in major currencies. Maybe you've wondered how many u-bits are in an m-bit, or, how much bitcoin is that 15,000 satoshi? Or, what's all that worth right now anyway in fiat currency? Then this may be a useful app for you. 
+
+Note: this app is not for fiat-to-fiat conversion, like USD-to-EUR. And it is not for crypto-to-crypto conversion, like Bitcoin-to-Dash. This app is for fiat-to-crypto conversions.
+
+Ethereum unit conversion is included: Ether, Finney, Szabo, and Gwei units.
+
+Bitcoin Cash (BCH), Litecoin (LTC), Dash (DASH), NEO (NEO), NeoGAS (GAS), Dogecoin (DOGE), and Grin (GRIN) support have been included as well. 
+
+Supported currencies: USD, GBP, EUR, CNY, CAD, AUD, INR, JPY, KRW, and many others.

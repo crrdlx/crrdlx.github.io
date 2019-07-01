@@ -25,7 +25,7 @@ The DMW repository is here: [https://github.com/crrdlx/doggone-minimal-website](
 
 ![shi image](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/shi.png)
 
-I also made the Satoshi Bitcoin Converter app for Android (not open source, maybe one day). It is available at https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US The "sales pitch" (it's free) follows:
+I also made the Satoshi Bitcoin Converter app for Android (not open source, maybe one day). It is available at [https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US](https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US) The "sales pitch" (it's free) follows:
 
 Satoshi Bitcoin Converter automatically switches units between bitcoin, mBTC, uBTC, and satoshi. A current value is displayed in major currencies. Maybe you've wondered how many u-bits are in an m-bit, or, how much bitcoin is that 15,000 satoshi? Or, what's all that worth right now anyway in fiat currency? Then this may be a useful app for you. 
 

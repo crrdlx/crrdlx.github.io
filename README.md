@@ -23,7 +23,7 @@ PureCSS repository: [https://github.com/crrdlx/purecss](https://github.com/crrdl
 The "DMW" is a template for a simple, clean, one-page website. It fits and looks great on any browser.
 The DMW repository is here: [https://github.com/crrdlx/doggone-minimal-website](https://github.com/crrdlx/doggone-minimal-website)
 
-Better, the DMW can be viewed at this link: [Doggone Minimal Website in action] (https://crrdlx.github.io/pages/dmw.html)
+Better, the DMW can be viewed at this link: [https://crrdlx.github.io/pages/dmw.html] (Doggone Minimal Website in action)
 
 #### Satoshi Bitcoin Converter
 

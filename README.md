@@ -4,6 +4,8 @@
 
 #### Grin Converter
 
+This was my first attempt at an open source project.
+
 ![Grin Converter Logo](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/grin-converter.png)
 
 Grin Converter repository: [https://github.com/crrdlx/grin-converter](https://github.com/crrdlx/grin-converter)

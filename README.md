@@ -14,17 +14,6 @@ The app simply converts the current price of Grin into fiat various fiat currenc
 * The web app can be found online at [http://br549.mywebcommunity.org/grin/](http://br549.mywebcommunity.org/grin/)
 * The Android app is available in the Google Play store at <a href="https://play.google.com/store/apps/details?id=com.grin.converter">https://play.google.com/store/apps/details?id=com.grin.converter</a>
 
-#### PureCSS
-This is a template from Yahoo! for a responsive website. It looks good on a desktop/laptop, tablet, or phone. I'm trying to mash it up with the Doggone Minimal Website.
-PureCSS repository: [https://github.com/crrdlx/purecss](https://github.com/crrdlx/purecss)
-
-#### Doggone Minimal Website
-
-The "DMW" is a template for a simple, clean, one-page website. It fits and looks great on any browser.
-The DMW repository is here: [https://github.com/crrdlx/doggone-minimal-website](https://github.com/crrdlx/doggone-minimal-website)
-
-Better, the DMW can be viewed at this link: [Doggone Minimal Website in action](https://crrdlx.github.io/pages/dmw.html)
-
 #### Satoshi Bitcoin Converter
 
 ![shi image](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/shi.png)
@@ -40,3 +29,14 @@ Ethereum unit conversion is included: Ether, Finney, Szabo, and Gwei units.
 Bitcoin Cash (BCH), Litecoin (LTC), Dash (DASH), NEO (NEO), NeoGAS (GAS), Dogecoin (DOGE), and Grin (GRIN) support have been included as well. 
 
 Supported currencies: USD, GBP, EUR, CNY, CAD, AUD, INR, JPY, KRW, and many others.
+
+#### PureCSS
+This is a template from Yahoo! for a responsive website. It looks good on a desktop/laptop, tablet, or phone. I'm trying to mash it up with the Doggone Minimal Website.
+PureCSS repository: [https://github.com/crrdlx/purecss](https://github.com/crrdlx/purecss)
+
+#### Doggone Minimal Website
+
+The "DMW" is a template for a simple, clean, one-page website. It fits and looks great on any browser.
+The DMW repository is here: [https://github.com/crrdlx/doggone-minimal-website](https://github.com/crrdlx/doggone-minimal-website)
+
+Better, the DMW can be viewed at this link: [Doggone Minimal Website in action](https://crrdlx.github.io/pages/dmw.html)

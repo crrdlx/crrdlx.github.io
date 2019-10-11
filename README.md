@@ -7,7 +7,7 @@
 This was my first attempt at an open source project.
 
 ![Grin Converter Logo](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/grin-converter.png)
-
+![Grin Converter Logo](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/grin_app.jpg)
 Grin Converter repository: [https://github.com/crrdlx/grin-converter](https://github.com/crrdlx/grin-converter)
 
 The app simply converts the current price of Grin into fiat various fiat currencies.

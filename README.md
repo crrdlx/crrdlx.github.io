@@ -7,6 +7,7 @@
 This was my first attempt at an open source project.
 
 ![Grin Converter Logo](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/grin-converter.png)
+
 ![Grin Converter Logo](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/grin_app.jpg)
 
 Grin Converter repository: [https://github.com/crrdlx/grin-converter](https://github.com/crrdlx/grin-converter)
@@ -19,6 +20,7 @@ The app simply converts the current price of Grin into fiat various fiat currenc
 #### Satoshi Bitcoin Converter
 
 ![shi image](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/shi.png)
+
 ![Grin Converter Logo](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/satoshi_app.jpg)
 
 I also made the Satoshi Bitcoin Converter app for Android (not open source, maybe one day). It is available at [https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US](https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US) The "sales pitch" follows (the app is free, actually):

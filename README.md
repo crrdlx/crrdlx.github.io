@@ -15,7 +15,7 @@ Grin Converter repository: [https://github.com/crrdlx/grin-converter](https://gi
 The app simply converts the current price of Grin into fiat various fiat currencies.
 * The web app can be found online at [http://br549.mywebcommunity.org/grin/](http://br549.mywebcommunity.org/grin/)
 * The Android app is available in the Google Play store at <a href="https://play.google.com/store/apps/details?id=com.grin.converter">https://play.google.com/store/apps/details?id=com.grin.converter</a>
-* This is a simple standalone app. But, it's also built into the "Satoshi Bitcoin Converter" which handles Grin, but has other cryptos too.
+* This is a simple standalone app. But, it's also built into the "Satoshi Bitcoin Converter." The Satoshi app not only handles Grin, but has other cryptos too. See below.
 
 #### Satoshi Bitcoin Converter
 

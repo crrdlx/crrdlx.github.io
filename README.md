@@ -1,6 +1,6 @@
 ## Welcome to the GitHub Pages page for crrdlx
 
-#### *I'm new to GitHub and using the following repos to learn about it and open source in general.*
+#### *I'm relatively new to GitHub and using the following repos to learn about it and open source in general.*
 ----
 #### Grin Converter
 

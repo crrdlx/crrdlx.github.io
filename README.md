@@ -23,7 +23,7 @@ The app simply converts the current price of Grin into fiat various fiat currenc
 
 ![Grin Converter Logo](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/satoshi_app.jpg)
 
-I also made the Satoshi Bitcoin Converter app for Android (not open source, maybe one day). It is available at [https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US](https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US) The "sales pitch" follows (the app is free, actually, and has no ads):
+I also made the Satoshi Bitcoin Converter app for Android (not open source, maybe one day). It is available at [https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US](https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US) The "sales pitch" follows. There's really no sales since the app is free, actually, and has no ads. I get nothing from it except a sense of accomplisment and a few thanks, which are awesome!
 
 The Satoshi Bitcoin Converter automatically switches units between bitcoin, mBTC, uBTC, and satoshi. A current value is displayed in major currencies. Maybe you've wondered how many u-bits are in an m-bit, or, how much bitcoin is that 15,000 satoshi? Or, what's all that worth right now anyway in fiat currency? Then this may be a useful app for you. 
 

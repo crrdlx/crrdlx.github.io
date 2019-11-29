@@ -35,13 +35,14 @@ Bitcoin Cash (BCH), Litecoin (LTC), Dash (DASH), NEO (NEO), NeoGAS (GAS), Dogeco
 
 Supported currencies: USD, GBP, EUR, CNY, CAD, AUD, INR, JPY, KRW, and many others.
 
+### Doggone Minimal Website
+
+The "DMW" is a template for a simple, clean, one-page website. It fits and looks great on any browser. It is a cleaned-up version of some minimal sites that use foul language as their name (won't be repeated here!).
+
+The DMW repository is here: [https://github.com/crrdlx/doggone-minimal-website](https://github.com/crrdlx/doggone-minimal-website)
+
+Better, the DMW can be viewed live at this link: [Doggone Minimal Website in action](https://crrdlx.github.io/pages/dmw.html)
+
 ### PureCSS
 This is a template from Yahoo! for a responsive website. It looks good on a desktop/laptop, tablet, or phone. I'm trying to mash it up with the Doggone Minimal Website.
 PureCSS repository: [https://github.com/crrdlx/purecss](https://github.com/crrdlx/purecss) or it can be viewed live online at: [PureCSS example](http://br549.mywebcommunity.org/pure/)
-
-### Doggone Minimal Website
-
-The "DMW" is a template for a simple, clean, one-page website. It fits and looks great on any browser.
-The DMW repository is here: [https://github.com/crrdlx/doggone-minimal-website](https://github.com/crrdlx/doggone-minimal-website)
-
-Better, the DMW can be viewed at this link: [Doggone Minimal Website in action](https://crrdlx.github.io/pages/dmw.html)

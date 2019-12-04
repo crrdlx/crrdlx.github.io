@@ -1,19 +1,3 @@
-<!-- Default Statcounter code for crrdlx.github.io
-https://crrdlx.github.io/ -->
-<script type="text/javascript">
-var sc_project=12155963; 
-var sc_invisible=1; 
-var sc_security="a6daac1f"; 
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="https://c.statcounter.com/12155963/0/a6daac1f/1/"
-alt="Web Analytics"></a></div></noscript>
-<!-- End of Statcounter Code -->
 ## Welcome to the GitHub Pages page for crrdlx
 
 #### *I'm relatively new to GitHub and using the following repos to learn about it and open source in general.*
@@ -67,3 +51,21 @@ This is a template from Yahoo! for a responsive website. It looks good on a desk
 PureCSS repository: [https://github.com/crrdlx/purecss](https://github.com/crrdlx/purecss) 
 
 Better, it can be viewed live online at: [PureCSS example](http://br549.mywebcommunity.org/pure/)
+
+
+<!-- Default Statcounter code for crrdlx.github.io
+https://crrdlx.github.io/ -->
+<script type="text/javascript">
+var sc_project=12155963; 
+var sc_invisible=1; 
+var sc_security="a6daac1f"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12155963/0/a6daac1f/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->

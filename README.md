@@ -16,6 +16,7 @@ The app simply converts the current price of Grin into fiat various fiat currenc
 * The web app can be found online at [http://br549.mywebcommunity.org/grin/](http://br549.mywebcommunity.org/grin/)
 * The Android app is available in the Google Play store at <a href="https://play.google.com/store/apps/details?id=com.grin.converter">https://play.google.com/store/apps/details?id=com.grin.converter</a>
 * This is a simple standalone app. But, it's also built into the "Satoshi Bitcoin Converter." The Satoshi app not only handles Grin, but has other cryptos too. See below.
+----
 
 ### Satoshi Bitcoin Converter
 
@@ -35,6 +36,7 @@ I also made the Satoshi Bitcoin Converter app for Android. It is available at [h
 
 *Supported currencies: USD, GBP, EUR, CNY, CAD, AUD, INR, JPY, KRW, and many others.*
 
+----
 ### Doggone Minimal Website
 
 The "DMW" is a template for a simple, clean, one-page website. It fits and looks great on any browser. It is a cleaned-up version of some minimal sites that use foul language as their name (and won't be repeated here!).
@@ -43,6 +45,7 @@ The DMW repository is here: [https://github.com/crrdlx/doggone-minimal-website](
 
 Better, the DMW can be viewed live at this link: [Doggone Minimal Website in action](https://crrdlx.github.io/pages/dmw.html)
 
+----
 ### PureCSS
 This is a template from Yahoo! for a responsive website. It looks good on a desktop/laptop, tablet, or phone. I'm trying to mash it up with the Doggone Minimal Website.
 PureCSS repository: [https://github.com/crrdlx/purecss](https://github.com/crrdlx/purecss) or it can be viewed live online at: [PureCSS example](http://br549.mywebcommunity.org/pure/)

@@ -52,7 +52,7 @@ PureCSS repository: [https://github.com/crrdlx/purecss](https://github.com/crrdl
 
 Better, it can be viewed live online at: [PureCSS example](http://br549.mywebcommunity.org/pure/)
 
-
+----
 <!-- Default Statcounter code for crrdlx.github.io
 https://crrdlx.github.io/ -->
 <script type="text/javascript">

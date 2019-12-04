@@ -23,21 +23,21 @@ The app simply converts the current price of Grin into fiat various fiat currenc
 
 ![Grin Converter Logo](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/satoshi_app.jpg)
 
-I also made the Satoshi Bitcoin Converter app for Android (not open source, maybe one day). It is available at [https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US](https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US) The "sales pitch" follows. There's really no sales since the app is free, actually, and has no ads. I get nothing from it except a sense of accomplisment and a few thanks, which are awesome!
+I also made the Satoshi Bitcoin Converter app for Android. It is available at [https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US](https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US) The "sales pitch" from the Play store follows in italics. There really is no sales pitch since the app is free, actually, and has no ads. I get nothing from it except a sense of accomplisment and a few thanks, which are awesome!
 
-The Satoshi Bitcoin Converter automatically switches units between bitcoin, mBTC, uBTC, and satoshi. A current value is displayed in major currencies. Maybe you've wondered how many u-bits are in an m-bit, or, how much bitcoin is that 15,000 satoshi? Or, what's all that worth right now anyway in fiat currency? Then this may be a useful app for you. 
+*The Satoshi Bitcoin Converter automatically switches units between bitcoin, mBTC, uBTC, and satoshi. A current value is displayed in major currencies. Maybe you've wondered how many u-bits are in an m-bit, or, how much bitcoin is that 15,000 satoshi? Or, what's all that worth right now anyway in fiat currency? Then this may be a useful app for you.*
 
-Note: this app is not for fiat-to-fiat conversion, like USD-to-EUR. And it is not for crypto-to-crypto conversion, like Bitcoin-to-Dash. This app is for fiat-to-crypto conversions.
+*Note: this app is not for fiat-to-fiat conversion, like USD-to-EUR. And it is not for crypto-to-crypto conversion, like Bitcoin-to-Dash. This app is for fiat-to-crypto conversions.*
 
-Ethereum unit conversion is included: Ether, Finney, Szabo, and Gwei units.
+*Ethereum unit conversion is included: Ether, Finney, Szabo, and Gwei units.*
 
-Bitcoin Cash (BCH), Litecoin (LTC), Dash (DASH), NEO (NEO), NeoGAS (GAS), Dogecoin (DOGE), and Grin (GRIN) support have been included as well. 
+*Bitcoin Cash (BCH), Litecoin (LTC), Dash (DASH), NEO (NEO), NeoGAS (GAS), Dogecoin (DOGE), and Grin (GRIN) support have been included as well.*
 
-Supported currencies: USD, GBP, EUR, CNY, CAD, AUD, INR, JPY, KRW, and many others.
+*Supported currencies: USD, GBP, EUR, CNY, CAD, AUD, INR, JPY, KRW, and many others.*
 
 ### Doggone Minimal Website
 
-The "DMW" is a template for a simple, clean, one-page website. It fits and looks great on any browser. It is a cleaned-up version of some minimal sites that use foul language as their name (won't be repeated here!).
+The "DMW" is a template for a simple, clean, one-page website. It fits and looks great on any browser. It is a cleaned-up version of some minimal sites that use foul language as their name (and won't be repeated here!).
 
 The DMW repository is here: [https://github.com/crrdlx/doggone-minimal-website](https://github.com/crrdlx/doggone-minimal-website)
 

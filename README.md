@@ -1,6 +1,8 @@
 ## Welcome to the GitHub Pages page for crrdlx
 
 ### I'm crrdlx or CR for short
+1. Keybase: https://keybase.io/crrdlx
+2. Keybase public files: https://keybase.pub/crrdlx/
 
 ##### *I'm relatively new to GitHub and using the following repos to learn about it and open source in general.*
 ----
@@ -13,6 +15,8 @@ This was my first attempt at an open source project.
 ![Grin Converter Logo](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/grin_app.jpg)
 
 Grin Converter repository: [https://github.com/crrdlx/grin-converter](https://github.com/crrdlx/grin-converter)
+
+Older versions of the app can be found on GitHub or in my Keybase public files (link above).
 
 The app simply converts the current price of Grin into fiat various fiat currencies.
 * The web app can be found online at [http://br549.mywebcommunity.org/grin/](http://br549.mywebcommunity.org/grin/)

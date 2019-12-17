@@ -1,8 +1,8 @@
 ## Welcome to the GitHub Pages page for crrdlx
 
 ### I'm crrdlx or CR for short
-1. Keybase: https://keybase.io/crrdlx
-2. Keybase public files: https://keybase.pub/crrdlx
+1. Keybase: [https://keybase.io/crrdlx](https://keybase.io/crrdlx)
+2. Keybase public files: [https://keybase.pub/crrdlx](https://keybase.pub/crrdlx)
 
 ##### *I'm relatively new to GitHub and using the following repos to learn about it and open source in general.*
 ----

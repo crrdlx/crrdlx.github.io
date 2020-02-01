@@ -1,4 +1,4 @@
-## Welcome to the GitHub Pages page for crrdlx
+## crrdlx.github.io
 
 ### I'm crrdlx or CR for short
 1. Keybase: [https://keybase.io/crrdlx](https://keybase.io/crrdlx)

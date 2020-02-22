@@ -1,5 +1,5 @@
 ## crrdlx.github.io
-![shi image](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/crrdlx.png)
+![crrdlx](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/crrdlx.jpg)
 ### I'm crrdlx or CR for short
 1. Keybase: [https://keybase.io/crrdlx](https://keybase.io/crrdlx)
 2. Keybase public files: [https://keybase.pub/crrdlx](https://keybase.pub/crrdlx)

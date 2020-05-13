@@ -26,6 +26,7 @@ In 2013, I made the "Satoshi Bitcoin Converter" as a web app. The web app now re
 *Supported currencies: USD, GBP, EUR, CNY, CAD, AUD, INR, JPY, KRW, and many others.*
 
 This is a free app, with no advertisements. I do this just for the satisfaction of making something that works, for the crypto community, and with the hope that it might help someone in some small way. I'm thrilled that this app has logged users in 125 countries around the world, many of which are developing nations, and I'm sure there are more countries that I've missed. I trust that the app indeed is doing some good in these places. That makes me :)
+
 ----
 ### Grin Converter
 

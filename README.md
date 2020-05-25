@@ -1,9 +1,10 @@
 ## crrdlx.github.io
 ![crrdlx](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/crrdlx.jpg)
 ### I'm crrdlx or CR for short
-1. Keybase: [https://keybase.io/crrdlx](https://keybase.io/crrdlx)
-2. Keybase public files: [https://keybase.pub/crrdlx](https://keybase.pub/crrdlx)
-3. Blockstack: crrdlxcr
+1. Github: [https://github.com/crrdlx](https://github.com/crrdlx)
+2. Keybase: [https://keybase.io/crrdlx](https://keybase.io/crrdlx)
+3. Keybase public files: [https://keybase.pub/crrdlx](https://keybase.pub/crrdlx)
+4. Blockstack: crrdlxcr
 
 ##### *I'm relatively new to GitHub and using the following repos to learn about it and open source in general.*
 ----

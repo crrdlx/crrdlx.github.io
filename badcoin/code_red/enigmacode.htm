@@ -1,0 +1,123 @@
+<html>
+<head>
+<title>Virtual Enigma Machine</title>
+<script language="JavaScript">
+
+function Encrypt(f) {
+    var plaintext, ciphertext, keyword, keyletter
+
+    alpha = new Array('A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z')
+
+    keyword = MakeGoodKeyword(f.keyword.value)  // puts in caps and omits repeats
+    keyletter = f.keyletter.value.toUpperCase()
+
+    newalpha = new Array()
+    MakeNewAlpha(keyword, keyletter)
+
+    plaintext = f.p.value.toUpperCase()
+    plaintext = plaintext.replace(/\W/g, "")
+
+    ciphertext = ""
+    for (i = 0; i < plaintext.length; i++) {
+        ciphertext = ciphertext + newalpha[plaintext.charCodeAt(i) - 65]
+    }
+
+    f.c.value = ciphertext
+}
+
+
+function Decrypt(f) {
+
+    var plaintext, ciphertext, keyword, keyletter
+
+    alpha = new Array('A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z')
+
+    keyword = MakeGoodKeyword(f.keyword.value)  // puts in caps and omits repeats
+    keyletter = f.keyletter.value.toUpperCase()
+
+    newalpha = new Array()
+    MakeNewAlpha(keyword, keyletter)
+
+    ciphertext = f.c.value.toUpperCase()
+    ciphertext = ciphertext.replace(/\W/g, "")
+
+    plaintext = ""
+    for (i = 0; i < ciphertext.length; i++) {
+        j = 0
+        while (newalpha[j] != ciphertext.charAt(i)) { j++ }
+        plaintext = plaintext + alpha[j]
+    }
+
+    f.p.value = plaintext.toLowerCase()
+}
+
+
+function MakeGoodKeyword(k) {
+
+    keyword = k.toUpperCase()
+    keyword = keyword.replace(/\W/g, "")
+
+    for (i = 0; i < alpha.length; i++) {
+        letter = alpha[i]
+        if (keyword.indexOf(letter) != keyword.lastIndexOf(letter)) {
+            re = new RegExp(letter, "i")
+            keyword.match(re)
+            lc = RegExp.leftContext
+            rc = RegExp.rightContext
+            re = new RegExp(letter, "gi")
+            rc = rc.replace(re, "")
+            keyword = lc + letter + rc   // now 'keyword' has no repeated
+                                         // letters after the first appearance
+        }
+    }
+    
+    return(keyword)
+}
+
+function MakeNewAlpha(keyword, keyletter) {
+
+    lettercode = keyletter.charCodeAt(0) - 65
+    for (i = 0; i < keyword.length; i++) {
+        newalpha[(lettercode + i) % 26] = keyword.charAt(i)
+    }
+    for (i = keyword.length, j = 0; i < 26; i++, j++) {
+        repeat = 1
+        while (repeat == 1) {
+            repeat = 0
+            for (k=0; k < keyword.length; k++) {
+                if (alpha[j] == keyword.charAt(k)) { repeat = 1 }
+            }
+            if (repeat == 1) { j++ }
+        }
+        newalpha[(lettercode + i) % 26] = alpha[j]
+    }
+}
+
+
+</script>
+</head>
+<body BGCOLOR="tan">
+<center><big>Virtual Enigma Machine</big>
+<p>
+<FORM>
+<p>
+Which 3 rotors? <input type=text name="keyword" value="" size=3 maxlength=3> &nbsp;&nbsp;&nbsp;&nbsp;
+Which 3 starting letters? <input type=text name="keyletter" value="" size=3 maxlength=3>
+<p>
+Message received<br>
+<TEXTAREA NAME="c" ROWS=1 COLS=60 wrap>
+LACMRC VSMTES RWASSR GVOGGJ CPHQYF MCHFGW ZZCJSL SCYOM
+</TEXTAREA> 
+<p>
+<input type=button name=btnDe value="Decrypt" onClick="Decrypt(this.form)">
+<p>
+Decoded text<br>
+<TEXTAREA NAME="p" ROWS=1 COLS=60 wrap>
+</TEXTAREA> 
+</FORM> 
+</center>
+</body>
+</html>
+
+
+

@@ -5,5 +5,5 @@
 2. Hive: [https://peakd.com/@crrdlx](https://peakd.com/@crrdlx)
 3. Keybase: [https://keybase.io/crrdlx](https://keybase.io/crrdlx)
 4. Keybase public files: [https://keybase.pub/crrdlx](https://keybase.pub/crrdlx)
-5. Telegram or Discord: @crrdlx
+5. Telegram @crrdlx and Discord crrdlx#2692
 6. Blockstack: crrdlxcr

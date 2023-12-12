@@ -2,8 +2,9 @@
 ![crrdlx](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/crrdlx.jpg)
 ### I'm crrdlx or CR for short
 1. Github: [https://github.com/crrdlx](https://github.com/crrdlx)
-2. Hive: [https://peakd.com/@crrdlx](https://peakd.com/@crrdlx)
-3. Keybase: [https://keybase.io/crrdlx](https://keybase.io/crrdlx)
-4. Keybase public files: [https://keybase.pub/crrdlx](https://keybase.pub/crrdlx)
-5. Telegram @crrdlx and Discord crrdlx#2692
-6. Blockstack: crrdlxcr
+2. Fleek: [https://crrdlx.on.fleek.co](https://crrdlx.on.fleek.co)
+3. Hive: [https://peakd.com/@crrdlx](https://peakd.com/@crrdlx)
+4. Keybase: [https://keybase.io/crrdlx](https://keybase.io/crrdlx)
+5. Keybase public files: [https://keybase.pub/crrdlx](https://keybase.pub/crrdlx)
+6. Telegram @crrdlx and Discord crrdlx#2692
+7. Blockstack: crrdlxcr

@@ -1,5 +1,5 @@
 ## crrdlx
-![crrdlx](https://raw.githubusercontent.com/crrdlx/crrdlx.github.io/master/images/crrdlx.jpg)
+![crrdlx](https://files.peakd.com/file/peakd-hive/crrdlx/AJTEHEVHhTbj2HqMQD5RCR2VJW2Bu3TD411rmXa8oMowiURMJrogrrupByUrkkH.jpg)
 ### I'm crrdlx or CR for short
 1. Github: [https://github.com/crrdlx](https://github.com/crrdlx)
 2. Fleek: [https://crrdlx.on.fleek.co](https://crrdlx.on.fleek.co)
@@ -10,4 +10,4 @@
 
 https://linktr.ee/crrdlx
 
-See [https://crrdlx.on.fleek.co|crrdlx.on.fleek.co] for info.
+See [crrdlx.on.fleek.co](https://crrdlx.on.fleek.co) for info.
